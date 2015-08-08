@@ -14,7 +14,10 @@ This plugin was written for use in the [Anthropose](http://anthropose.com/produc
 3. Currently the number of sprite images has to be 5.
 
 ##Usage
+1. Using defaults
 > $("#rotate-container").rotateHeads();
+
+2. Using options
 > $("#rotate-container").rotateHeads({
     total_banner_width: 2551,
     total_width: 431
