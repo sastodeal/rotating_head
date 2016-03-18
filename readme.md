@@ -11,7 +11,7 @@ This plugin was written for use in the [Anthropose](http://anthropose.com/produc
 ###Options include:
 1. total_banner_width in pixels *(width of entire sprite )*
 2. total_width in pixels *(width of each individual item image in sprite)*
-3. Currently the number of sprite images has to be 5.
+3. Number of images is the number of seperate blocks within the sprite image.
 
 ##Usage
 1. Using defaults
