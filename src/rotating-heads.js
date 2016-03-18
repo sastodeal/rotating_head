@@ -3,6 +3,10 @@
 * Description: Rotate heads on mouse hover
 * Limitation: Currently only supports 5 images
 */
+//TODO
+/*
+	1. Make this plugin for flexible so that it supports more/less images
+ */
 (function ( $ ) {
 
 	$.fn.rotateHeads = function( options ){
