@@ -1,8 +1,8 @@
 /**
 * Author: Sodhan Manandhar
 * Description: Rotate heads on mouse hover
-* Limitation: Currently only supports 5 images
 * Dependency: jQuery
+* Additions: Number of seperate images can be any number
 */
 (function ( $ ) {
 
