@@ -1,4 +1,4 @@
-#Rotating Heads
+# Rotating Heads
 
 This plugin was written for use in the [Anthropose](http://anthropose.com/product/aristle/) website in order to show how sunglasses would look like. This is actually a very low tech solution to a virtual try-on implemented in the Rayban website and is heavily inspired from the [Warby Parker](https://www.warbyparker.com/) website.
 
